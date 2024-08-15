@@ -1,0 +1,40 @@
+h1 {
+    margin-top: 0px;
+    display: block;
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+}
+
+.h2{
+    display: inline-block;
+    margin-left: 30px;
+    text-align: center;
+}
+
+#heading{
+    margin-left: 25%;
+}
+
+#d1{
+    height: 50px;
+    float: right;
+    
+}
+
+#award_head{
+    color: darkgreen;
+    margin-right: 0px;
+
+}
+.merge2 {
+    display: inline-block;
+   
+}
+
+#award_image{
+    height: 200px;
+    
+
+}
+
